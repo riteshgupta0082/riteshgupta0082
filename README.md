@@ -139,27 +139,31 @@ I focus on building repeatable infrastructure workflows, automating delivery pip
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=riteshgupta0082&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="GitHub profile statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshgupta0082&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
-    height="165"
-    alt="Most-used programming languages"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=riteshgupta0082&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riteshgupta0082&theme=2077" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riteshgupta0082&theme=2077" width="32%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riteshgupta0082&theme=2077" width="32%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=riteshgupta0082&theme=2077" width="32%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=riteshgupta0082&theme=tokyonight-duo&hide_border=true&border_radius=8&background=0d0d1a&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa" width="55%"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=riteshgupta0082&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=c084fc&text_color=8892b0&count_private=true" width="42%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=riteshgupta0082&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%"/>
+
+</div>
 
 ---
 
